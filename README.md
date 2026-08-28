@@ -1,8 +1,6 @@
 ## 🚀 About Me
 
 Nice to e-meet you! I'm a Backend Developer with 5 years of experience in telecom and banking domains. I've worked on both monolithic and microservice architectures, using Java, Go, Spring, Kafka, SQL, and NoSQL databases. I'm also experienced in Agile practices, including Scrum and Kanban.
->[![Telegram](https://img.shields.io/badge/Telegram-@Zemljkov-blue?style=flat&logo=telegram)](https://t.me/Zemljkov)
->[![Email](https://img.shields.io/badge/Email-zemljkovnikita@gmail.com-red?style=flat&logo=gmail)](mailto:zemljk17@gmail.com)
 ---
 
 ## 🛠️ Tech Stack
@@ -37,7 +35,7 @@ Nice to e-meet you! I'm a Backend Developer with 5 years of experience in teleco
 - Implemented smart host health‑check for legacy deployment
 
 ### SMARTS‑Quanttelecom — *Java Developer*
-*Jun 2023 – Jul 2025 · Remote*
+*Sep 2022 – Jul 2025 · Remote*
 
 - Developed "Smart Road" analytical system
 - Implemented business logic with Spring Framework and REST APIs
@@ -46,10 +44,18 @@ Nice to e-meet you! I'm a Backend Developer with 5 years of experience in teleco
 - Wrote tests (JUnit), did code reviews, and containerized with Docker
 
 ### Volunteer Project — *Python Developer*
-*Sep 2022 – Sep 2023 · Remote*
+*Sep 2021 – Sep 2022 · Remote*
 
 - Processed 150,000+ JPEG files using easyOCR
 - Managed data storage in PostgreSQL
 - Automated reporting and Excel visualization
+
+---
+
+## 📫 Contact
+
+- Telegram: [@Zemljkov](https://t.me/Zemljkov)
+- Email: [zemljkovnikita@gmail.com](mailto:zemljk17@gmail.com)
+- GitHub: [github.com/zemljk](https://github.com/zemljk)
 
 ---
