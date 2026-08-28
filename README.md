@@ -8,16 +8,19 @@ Nice to e-meet you! I'm a Backend Developer with 5 years of experience in teleco
 ## 🛠️ Tech Stack
 
 ### Languages
-`Java` `Go` `Python` `SQL` `PL/pgSQL`
+`Java` `Go` `Python` `SQL` `PL/pgSQL` `NoSQL`
 
-### Frameworks & Tools
-`Spring Boot` `Hibernate` `Kafka` `Docker` `Kubernetes` `Prometheus` `Git` `Maven` `Jenkins` `GitLab CI`
+### Frameworks & Libraries
+`Spring Boot` `Spring MVC` `Spring Data` `Spring Web` `Spring Security` `Spring Cloud` `Hibernate` `JDBC` `Kafka` `OpenAM` `LDAP` `Liquibase` `JUnit` `Log4j` `Mockito` `WireMock` `Testcontainers` `Feign Client` `Bucket4j`
+
+### Tools & Platforms
+`Docker` `Kubernetes` `Git` `Maven` `Jenkins` `GitLab CI` `Prometheus` `JMeter` `Linux` `CI/CD`
 
 ### Databases
 `PostgreSQL` `ScyllaDB` `Cassandra` `MongoDB` `Oracle DB` `Redis`
 
-### Practices
-`Microservices` `REST APIs` `Unit/Integration Testing` `Agile/Scrum` `Code Review` `Design Patterns` `Concurrent Programming`
+### Practices & Architecture
+`Microservices Architecture` `REST API Design` `Unit/Integration Testing` `Agile/Scrum` `Code Review` `CI/CD Pipelines` `OOP` `Design Patterns` `Concurrent Programming` `Troubleshooting & Debugging`
 
 ---
 
