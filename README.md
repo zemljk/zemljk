@@ -24,3 +24,32 @@ Nice to e-meet you! I'm a Backend Developer with 5 years of experience in teleco
 
 ---
 
+## 💼 Experience
+
+### VTB (T1-Innotech) — *Java/Go Developer*
+*Jun 2025 – Sep 2026 · Remote*
+
+- Built authentication system for individuals using Spring Boot microservices
+- Designed high‑performance REST APIs integrated with banking/security systems
+- Worked with PostgreSQL and ScyllaDB
+- Configured monitoring (Prometheus) and load testing (JMeter)
+- Developed customer‑blocking microservice and SQL/NoSQL migration comparison tool
+- Implemented smart host health‑check for legacy deployment
+
+### SMARTS‑Quanttelecom — *Java Developer*
+*Jun 2023 – Jul 2025 · Remote*
+
+- Developed "Smart Road" analytical system
+- Implemented business logic with Spring Framework and REST APIs
+- Integrated Apache Kafka for real‑time streaming
+- Used PostgreSQL + Hibernate for ORM
+- Wrote tests (JUnit), did code reviews, and containerized with Docker
+
+### Volunteer Project — *Python Developer*
+*Sep 2022 – Sep 2023 · Remote*
+
+- Processed 150,000+ JPEG files using easyOCR
+- Managed data storage in PostgreSQL
+- Automated reporting and Excel visualization
+
+---
