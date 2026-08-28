@@ -1,10 +1,8 @@
-[![Telegram](https://img.shields.io/badge/Telegram-@Zemljkov-blue?style=flat&logo=telegram)](https://t.me/Zemljkov)
-[![Email](https://img.shields.io/badge/Email-zemljkovnikita@gmail.com-red?style=flat&logo=gmail)](mailto:zemljk17@gmail.com)
-
 ## 🚀 About Me
 
-I'm a backend developer with 3+ years of commercial experience building scalable microservices, high‑performance APIs, and distributed systems. I've worked in banking, analytics, and data processing domains.
-
+Nice to e-meet you! I'm a Java Developer with 5 years of experience in telecom and banking domains. I've worked on both monolithic and microservice architectures, using Java, Go, Spring, Kafka, SQL, and NoSQL databases. I'm also experienced in Agile practices, including Scrum and Kanban.
+[![Telegram](https://img.shields.io/badge/Telegram-@Zemljkov-blue?style=flat&logo=telegram)](https://t.me/Zemljkov)
+[![Email](https://img.shields.io/badge/Email-zemljkovnikita@gmail.com-red?style=flat&logo=gmail)](mailto:zemljk17@gmail.com)
 ---
 
 ## 🛠️ Tech Stack
