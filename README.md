@@ -55,7 +55,7 @@ Nice to e-meet you! I'm a Backend Developer with 5 years of experience in teleco
 ## 📫 Contact
 
 - Telegram: [@Zemljkov](https://t.me/Zemljkov)
-- Email: [zemljkovnikita@gmail.com](mailto:zemljk17@gmail.com)
+- Email: [zemljk17@gmail.com](mailto:zemljk17@gmail.com)
 - GitHub: [github.com/zemljk](https://github.com/zemljk)
 
 ---
